@@ -7,5 +7,7 @@ Then open SakuraBloomingPrediction.ipynb and run
 Currently it only works with tensorflow 1.15. Simple ANN model with low level library has been used to build a model.
 
 #### TO-DO
-pytorch \n
-lstm
+```
+pytorch neural network
+time series prediction (lstm)
+```
