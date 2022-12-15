@@ -1,0 +1,6 @@
+pandas
+numpy
+matplotlib
+texttable
+scikit-learn
+tensorflow==1.15.0
